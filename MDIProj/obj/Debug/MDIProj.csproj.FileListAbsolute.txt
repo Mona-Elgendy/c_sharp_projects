@@ -1,0 +1,11 @@
+C:\Users\monaa\source\repos\MDIProj\MDIProj\bin\Debug\MDIProj.exe.config
+C:\Users\monaa\source\repos\MDIProj\MDIProj\bin\Debug\MDIProj.exe
+C:\Users\monaa\source\repos\MDIProj\MDIProj\bin\Debug\MDIProj.pdb
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.csprojAssemblyReference.cache
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.DocForm.resources
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.MainForm.resources
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.Properties.Resources.resources
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.csproj.GenerateResource.cache
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.csproj.CoreCompileInputs.cache
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.exe
+C:\Users\monaa\source\repos\MDIProj\MDIProj\obj\Debug\MDIProj.pdb
