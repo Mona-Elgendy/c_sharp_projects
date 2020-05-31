@@ -1,0 +1,10 @@
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\bin\Debug\NotePadApp.pdb
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csprojAssemblyReference.cache
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.NotePadForm.resources
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Properties.Resources.resources
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csproj.GenerateResource.cache
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csproj.CoreCompileInputs.cache
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+C:\Users\monaa\Desktop\my_projects\c#\NotePadApp\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
