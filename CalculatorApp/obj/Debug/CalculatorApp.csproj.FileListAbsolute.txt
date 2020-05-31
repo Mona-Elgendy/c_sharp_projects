@@ -1,0 +1,10 @@
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalcForm.resources
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\monaa\Desktop\my_projects\c#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
